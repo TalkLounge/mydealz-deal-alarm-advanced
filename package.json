@@ -1,5 +1,5 @@
 {
-  "name": "mydealz-notification",
+  "name": "mydealz-deal-alarm-advanced",
   "version": "1.0.0",
   "main": "src/index.js",
   "description": "Advanced Deal Alarm Notification for MyDealz.de",
