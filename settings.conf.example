@@ -1,0 +1,11 @@
+emailSender = "MyDealz Deal Notification <mydealz-deal-notification@myServer.com>"
+emailReceiver = "myMail@example.com"
+
+
+# Heiße Preisfehler
+
+[[searchterm]]
+label = "Preisfehler"
+titleContains = "Preisfehler"
+temperature = 50
+temperatureWithinMinutes = 15

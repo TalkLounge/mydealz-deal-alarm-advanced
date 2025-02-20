@@ -1,0 +1,16 @@
+{
+  "name": "mydealz-notification",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "defaults": "^1.0.4",
+    "mydealz-api": "github:TalkLounge/mydealz-api"
+  }
+}
