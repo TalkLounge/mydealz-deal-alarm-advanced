@@ -9,7 +9,7 @@ This project, is exactly what you are looking for<br>
 
 ### Example E-Mail Notification
 Only E-Mail Notifications are currently supported<br>
-<img src="assets/screenshot.jpg" width="50%" />
+<img src="assets/screenshot.jpg" width="75%" />
 
 ## Table of Contents
 - [MyDealz Deal Alarm Advanced](#mydealz-deal-alarm-advanced)
